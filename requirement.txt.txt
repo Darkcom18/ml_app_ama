@@ -1,0 +1,5 @@
+python3
+streamlit
+pandas
+numpy
+joblib

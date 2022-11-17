@@ -5,10 +5,6 @@ import os
 import numpy as np
 import joblib
 
-# Storing Data
-import sqlite3
-import datetime
-
 
 def get_value(val,my_dict):
 	for key ,value in my_dict.items():
